@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogSystem</string>
+    <string name="clear_all_logs">Clear All Logs</string>
+    <string name="search_logs">Search logs...</string>
+    <string name="total_logs">Total logs: %d</string>
+    <string name="no_logs">No logs available</string>
+    <string name="log_level_debug">DEBUG</string>
+    <string name="log_level_info">INFO</string>
+    <string name="log_level_warning">WARNING</string>
+    <string name="log_level_error">ERROR</string>
+    <string name="log_level_critical">CRITICAL</string>
+</resources>
